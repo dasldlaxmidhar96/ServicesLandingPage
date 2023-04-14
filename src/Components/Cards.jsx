@@ -24,7 +24,7 @@ const Cards = () => {
             harum quibusdam tenetur qui praesentium fuga voluptate possimus
             ipsam eum!
           </div>
-          <button className="bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
+          <button className="bg-[#00df9a] text-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
             Learn More
           </button>
         </div>
